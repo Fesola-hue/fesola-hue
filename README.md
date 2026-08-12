@@ -28,4 +28,4 @@ When I'm not doing that, you'll probably find me learning frontend, experimentin
 ## Let's connect
 
 - 🌍 Website: https://aishaonola.me
-- 💼 LinkedIn: linkedin.com/in/onolaaishatfesola
+
