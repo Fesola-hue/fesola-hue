@@ -1,31 +1,22 @@
-## Hi there 👋
+Hey, I am Aisha.
 
-I'm Aisha Onola, and I like building things.
+I’m interested in building useful things, from digital products and systems to media projects and new ideas.
 
-Sometimes they're products.  
-Sometimes they're systems.  
-Sometimes they're ideas that started with, *"What if...?"*
+I’m the founder of The OffScript, a media brand helping young Nigerians understand politics, money, technology and culture through clear storytelling, context and curation.
 
-I'm currently building **The OffScript** a media brand making news easier to understand through thoughtful storytelling, context, and curation, helping Nigerians stay informed without feeling overwhelmed.
+Outside of The OffScript, I’m learning frontend development, exploring how AI can be used to build better products, and documenting the things I create along the way.
 
-When I'm not doing that, you'll probably find me learning frontend, experimenting with AI, or documenting what I'm building and learning along the way.
+Current focus
+AI-powered tools
+Frontend development
+Product management
+Product strategy
+What you’ll find here
+Personal projects
+Product experiments
+Case studies
+Things I’m learning
+Things I’m building
+Let’s connect
 
-### Current focus
-
-- 🤖 Building AI-powered tools
-- 💻 Frontend development
-- 🎨 Product design & management
-- 📈 Product strategy
-
-### You'll find here
-
-- 🚀 Personal projects
-- 🧪 Experiments
-- 📚 Product case studies
-- 🌱 Things I'm learning
-- ⚡ Things I'm shipping
-
-## Let's connect
-
-- 🌍 Website: https://aishaonola.me
-
+Website: https://aishaonola.me
