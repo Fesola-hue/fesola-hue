@@ -6,17 +6,19 @@ I’m the founder of The OffScript, a media brand helping young Nigerians unders
 
 Outside of The OffScript, I’m learning frontend development, exploring how AI can be used to build better products, and documenting the things I create along the way.
 
-Current focus
-AI-powered tools
-Frontend development
-Product management
-Product strategy
-What you’ll find here
-Personal projects
-Product experiments
-Case studies
-Things I’m learning
-Things I’m building
+*Current focus*
+- AI-powered tools
+- Frontend development
+- Product management
+- Product strategy
+
+*What you’ll find here*
+- Personal projects
+- Product experiments
+- Case studies
+- Things I’m learning
+- Things I’m building
+
 Let’s connect
 
 Website: https://aishaonola.me
